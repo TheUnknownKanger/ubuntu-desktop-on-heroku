@@ -3,8 +3,8 @@
 A [Heroku](https://www.heroku.com/) install of [Ubuntu 20.10 (Groovy Gorilla)](https://releases.ubuntu.com/20.10/), with the [XFCE desktop environment](https://www.xfce.org/) and [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing).
 
 Do an automated deploy to Heroku:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+# Deploy
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTheUnknownKanger%2Fubuntu-desktop-on-heroku&template=https%3A%2F%2Fgithub.com%2FTheUnknownKanger%2Fubuntu-desktop-on-heroku)
 
 ## Built With
 
